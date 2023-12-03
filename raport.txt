@@ -1,0 +1,18 @@
+{'chain_id': 'T', 'sender': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'receiver': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'gas_limit': 50000, 'nonce': 294, 'amount': 1000000000000000000, 'data': b'', 'signature': b'\xcb\xa1\xfa\xc3\x1e\r\x84\xc7;\xe3e\xea4\xb1L3b\xca\x19jL\x80T$\x9b$\xf0\xcd\r-\\H\xa1H\x1e<\x1c\xb9\nH\x96]\xe3\x9c\xd0\xeb\x00%jy\xf3<\x1cJ\xb4F/;@\xe1b\xd7\x8c\x00', 'sender_username': '', 'receiver_username': '', 'gas_price': 1000000000, 'version': 2, 'options': 0, 'guardian': '', 'guardian_signature': b''}
+success
+ 
+{'chain_id': 'T', 'sender': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'receiver': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'gas_limit': 50000, 'nonce': 295, 'amount': 999999000000000000000000, 'data': b'', 'signature': b'\xdc\xe2\x11#\xef*I\xa0H\x97\x06\x01\x9fb\xf5G\xed\xcf\x11\xc7\xfb\xda\x96\xe2\xffj\xc7e_\n\xac\xcaP\x8b\r<\xe2\x12\x18\xb4?Vt$\x068\xee\xd3\x93\xc6\xfe\xf8\x83\xfd\x97\xa7\xd7\x81\xf7\xa6\x9a$~\x0f', 'sender_username': '', 'receiver_username': '', 'gas_price': 1000000000, 'version': 2, 'options': 0, 'guardian': '', 'guardian_signature': b''}
+invalid
+ 
+{'chain_id': 'T', 'sender': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'receiver': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'gas_limit': 50000, 'nonce': 296, 'amount': 1000000000000000000, 'data': b'', 'signature': b'F\x07\x83\x05\xf1\xd6\rZ\xe6\xf0\x82\xd9\xb3\xaf\xc1\x92\x95\xdc\xcc\xb9\xbd:$v\xe5\xfaR06\xcb\x99Z\xf5\x98\xba\x92N\x98\x92B\xcc\xa7L"\x7fD\xad\x99V\x87)\x93G\xdfe?\xa7il\r\xeb\xe9\x9d\x0f', 'sender_username': '', 'receiver_username': '', 'gas_price': 1000000000, 'version': 2, 'options': 0, 'guardian': '', 'guardian_signature': b''}
+success
+ 
+{'chain_id': 'T', 'sender': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'receiver': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'gas_limit': 407000, 'nonce': 297, 'amount': 0, 'data': b'ESDTTransfer@413242342d303164306439@01', 'signature': b',f\x0e\xd2\xd0s\xe6q\x92\xff\nS)\xe1\xea63\xc6\xac\x95\xc9/l\x0ex\x7fu\x19\t\xeb\xc0\x0f\x9dw\xbcPN8\xe6\xd8\xdbl\x9eMI\nG\xb8u\xd2 \xe6\\ \xb6\x82Kg\x94\x92\xdc\xe3N\x0b', 'sender_username': '', 'receiver_username': '', 'gas_price': 1000000000, 'version': 2, 'options': 0, 'guardian': '', 'guardian_signature': b''}
+success
+ 
+{'chain_id': 'T', 'sender': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'receiver': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'gas_limit': 407000, 'nonce': 298, 'amount': 0, 'data': b'ESDTTransfer@413242342d303164306439@0a', 'signature': b'\xa1f1a\x02}\xf8*\x06\xa4f X$*\xc1Z\xd1\xa8o\xef"\x0e\xda\x1c\xc6^3\x0c$\xe0[\xcc3\x94Aic\xe4\x13\xd0\x1a\xa8\xff\xe1Xyi\x03\t>u\x10\xaf\x9cb\xd1\x80\xe3\x96\x81\x97\xa2\x03', 'sender_username': '', 'receiver_username': '', 'gas_price': 1000000000, 'version': 2, 'options': 0, 'guardian': '', 'guardian_signature': b''}
+invalid
+ 
+{'chain_id': 'T', 'sender': 'erd15vdcwgq6n9934q487dnsn85ygke44j3lavk2udmjxmp2fe6dffzs69wp54', 'receiver': 'erd1qqqqqqqqqqqqqpgquzmh78klkqwt0p4rjys0qtp3la07gz4d396qn50nnm', 'gas_limit': 10000000, 'nonce': 299, 'amount': 0, 'data': b'foo@2a@74657374', 'signature': b'\xe7\x95*{ \xf7N\xa3\xb26"ZW\x9a\xb1\xb9\xad\x8c\xfcY\xa9*\x14\xba}\xc3\xf3\xb5\x1f8\xa8\xc7+@\xaef\xa0}\x85\r\xad|h\x85\xb0y(\x1c\x7f\xb7>\xcfr9\x83\xe4$-\x06\xdaT\x1d\x12\x08', 'sender_username': '', 'receiver_username': '', 'gas_price': 1000000000, 'version': 2, 'options': 0, 'guardian': '', 'guardian_signature': b''}
+pending
+ 
