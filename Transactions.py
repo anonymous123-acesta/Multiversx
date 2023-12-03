@@ -13,6 +13,7 @@ def transaction_true(account):
         nonce=account.nonce
     )
     return t
+    
 def transaction_false_amount(account):
     t = Transaction(
         sender=adresa,
@@ -20,16 +21,6 @@ def transaction_false_amount(account):
         chain_id="T",
         gas_limit=50000,
         amount=999999000000000000000000,
-        nonce=account.nonce
-    )
-    return t
-def transaction_pending(account):
-    t = Transaction(
-        sender=adresa,
-        receiver=adresa,
-        chain_id="T",
-        gas_limit=50000,
-        amount=1000000000000000000,
         nonce=account.nonce
     )
     return t
