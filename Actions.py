@@ -32,7 +32,7 @@ def report_file(transaction,hashes,number,proxy):
     transaction_hash = transactions_dict[number]
     information = proxy.get_transaction(transaction_hash)
 
-    file_path = '/home/adminm/PycharmProjects/test/raport.txt'
+    file_path = locatie
     t = str(transaction.__dict__)
     s = str(information.status)
     with open(file_path, "a") as f:
