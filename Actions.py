@@ -8,10 +8,8 @@ def delay(n):
     while datetime.now() < endtime:
         pass
 
-def semnare(t, signer, transC, proxy):
+def semnare(t, signer, transC):
     t.signature = signer.sign(transC.compute_bytes_for_signing(t))
-    #txhash = proxy.send_transaction(t)
-    #return txhash
     return t
 
 def output(t,proxy,hashes, number):
