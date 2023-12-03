@@ -33,7 +33,7 @@ def main():
     hashes = proxy.send_transactions([t, t1, t2, t3, t4, t5])
     print("Transactions hashes:", hashes)
 
-    delay(8)
+    delay(10)
 
     output(t, proxy, hashes, '0')
     output(t1, proxy, hashes, '1')
